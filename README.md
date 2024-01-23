@@ -49,9 +49,23 @@ To run segmentation using CNN, specify the desired dataset `{dataset}` (which ca
 ```
 python segmentation_cnn_{dataset}.py
 ```
-
 ## Credits
 For comparison, we used the following implementations of code from git repositories:
 - https://github.com/jacobgil/pytorch-grad-cam
 - https://github.com/pytorch/captum
 - https://github.com/PAIR-code/saliency
+  
+## Citation
+Please cite our work if you use it in your research:
+```
+@InProceedings{Barkan_2023_ICCV,
+    author    = {Barkan, Oren and Elisha‬‏, ‪Yehonatan and Asher, Yuval and Eshel, Amit and Koenigstein, Noam},
+    title     = {Visual Explanations via Iterated Integrated Attributions},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {2073-2084}
+}
+```
+
+
