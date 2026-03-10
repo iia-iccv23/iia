@@ -1,6 +1,9 @@
 
 # PyTorch Implementation of Iterated Integrated Attributrions
 
+[![Paper](https://img.shields.io/badge/Paper-CVPR26-blue)](https://openaccess.thecvf.com/content/ICCV2023/html/Barkan_Visual_Explanations_via_Iterated_Integrated_Attributions_ICCV_2023_paper.html)
+[![Project Page](https://img.shields.io/badge/Project-Website-pink)](https://iia-iccv23.github.io/iterated-integrated-attributions/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img width="600" height="450" src="result_sample.png" alt="ViT" title="ViT">
@@ -58,13 +61,13 @@ For comparison, we used the following implementations of code from git repositor
 ## Citation
 Please cite our work if you use it in your research:
 ```
-@InProceedings{Barkan_2023_ICCV,
-    author    = {Barkan, Oren and Elisha‬‏, ‪Yehonatan and Asher, Yuval and Eshel, Amit and Koenigstein, Noam},
-    title     = {Visual Explanations via Iterated Integrated Attributions},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2023},
-    pages     = {2073-2084}
+@inproceedings{barkan2023visual,
+  title={Visual Explanations via Iterated Integrated Attributions},
+  author={Barkan, Oren and Elisha, Yehonatan and Asher, Yuval and Eshel, Amit and Koenigstein, Noam},
+  booktitle={2023 IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={2073--2084},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
