@@ -1,7 +1,7 @@
 
 # PyTorch Implementation of Iterated Integrated Attributrions
 
-[![Paper](https://img.shields.io/badge/Paper-CVPR26-blue)](https://openaccess.thecvf.com/content/ICCV2023/html/Barkan_Visual_Explanations_via_Iterated_Integrated_Attributions_ICCV_2023_paper.html)
+[![Paper](https://img.shields.io/badge/Paper-ICCV23-blue)](https://openaccess.thecvf.com/content/ICCV2023/html/Barkan_Visual_Explanations_via_Iterated_Integrated_Attributions_ICCV_2023_paper.html)
 [![Project Page](https://img.shields.io/badge/Project-Website-pink)](https://iia-iccv23.github.io/iterated-integrated-attributions/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
